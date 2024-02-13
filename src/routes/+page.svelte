@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app(edited again)
+		to your new<br />SvelteKit app(canceld edited again)
 	</h1>
 	<h2>
 		try editing <strong>src/routes/+page.svelte</strong>
