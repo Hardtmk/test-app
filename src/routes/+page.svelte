@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app(edited)
+		to your new<br />SvelteKit app(cancel edited)
 	</h1>
 
 	<h2>
